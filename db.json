@@ -1,0 +1,69 @@
+{
+	"panadería" : 
+	{
+		"producto" : 
+		[
+			{
+ 				"id" : "FB1",
+"precio":10     
+"nombre" : "Rosquillas"
+				
+				
+			},
+                                                        {
+				"id" : "FB2",
+				"precio": 22,5,
+				"nombre" : "Tarta de chocolate"
+				
+			},
+			{
+				"id" : "FB3",
+				"precio": 22,5,
+				"nombre" : "Tarta de Vainilla"
+				
+			},
+                                                        {
+				"id" : "FB4",
+				"precio": 22,5,
+				"nombre" : "Dona de chocolate"
+				
+			},
+                                                         {
+				"id" : "FB5",
+				"precio": 22,5,
+				"nombre" : "Binbollo"
+				
+			}, 
+                                                        {
+				"id" : "FB6",
+				"precio": 22,5,
+				"nombre" : "Tornillo"
+				
+			},
+                                                        {
+				"id" : "FB7",
+				"precio": 22,5,
+				"nombre" : "Concha de chocolate"
+				
+			},
+                                                        {
+				"id" : "FB8",
+				"precio": 22,5,
+				"nombre" : "Bisquet"
+			
+			},
+                                                        {
+				"id" : "FB9",
+				"precio": 22,5,
+				"nombre" : "Tartas"
+				
+			},
+			{
+				"id" : "FB10",
+				"precio": 3,95,
+				"nombre" : "Panque de Fresa"
+				
+			}
+		]
+	}
+}		
