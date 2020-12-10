@@ -4,66 +4,66 @@
 		"producto" : 
 		[
 			{
- 				"id" : "FB1",
-"precio":10     
-"nombre" : "Rosquillas"
+				"id" : "FB1",
+                                                                           "precio": 11,
+				 "nombre" : "Rosquillas"
 				
 				
 			},
                                                         {
 				"id" : "FB2",
-				"precio": 22,5,
+				"precio": 22,
 				"nombre" : "Tarta de chocolate"
 				
 			},
 			{
 				"id" : "FB3",
-				"precio": 22,5,
+				"precio": 20,
 				"nombre" : "Tarta de Vainilla"
 				
 			},
                                                         {
 				"id" : "FB4",
-				"precio": 22,5,
+				"precio": 13,
 				"nombre" : "Dona de chocolate"
 				
 			},
                                                          {
 				"id" : "FB5",
-				"precio": 22,5,
+				"precio": 20,
 				"nombre" : "Binbollo"
 				
 			}, 
                                                         {
 				"id" : "FB6",
-				"precio": 22,5,
+				"precio": 9,
 				"nombre" : "Tornillo"
 				
 			},
                                                         {
 				"id" : "FB7",
-				"precio": 22,5,
+				"precio": 8,
 				"nombre" : "Concha de chocolate"
 				
 			},
                                                         {
 				"id" : "FB8",
-				"precio": 22,5,
+				"precio": 15,
 				"nombre" : "Bisquet"
 			
 			},
                                                         {
 				"id" : "FB9",
-				"precio": 22,5,
+				"precio": 6,
 				"nombre" : "Tartas"
 				
 			},
 			{
 				"id" : "FB10",
-				"precio": 3,95,
+				"precio": 9,
 				"nombre" : "Panque de Fresa"
 				
 			}
 		]
 	}
-}		
+}
